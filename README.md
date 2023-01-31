@@ -7,6 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvettorazzi&show_icons=true&bg_color=00000000)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvettorazzi&theme=blue-green)]
 
 ### Tecnologias que uso no meu dia
 
@@ -15,13 +16,14 @@
 <img align ="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align ="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align ="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</div>
-<div>
-  <a href="https://github.com/gabrielvettorazzi">   
+</div><br/>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através dela😄.
+
 </div>
   
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
