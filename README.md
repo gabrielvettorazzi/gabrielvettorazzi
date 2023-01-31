@@ -5,9 +5,7 @@
 [![Linkdn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vettorazzi-78b116221/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCnPcWn7RSP-cvXTlaicyHg)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvettorazzi&show_icons=true&bg_color=00000000)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvettorazzi&theme=blue-green)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielvettorazzi&show_icons=true&theme=radical)
 
 ### Tecnologias que uso no meu dia
 
@@ -17,13 +15,10 @@
 <img align ="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img align ="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </div><br/>
-
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através dela😄.
-
 </div>
   
-  ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-
+  Apaixonado por tecnologia, educação e por mudar a vida das pessoas através dela😄.
 
