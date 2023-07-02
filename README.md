@@ -1,6 +1,8 @@
 
 ### Olá! Eu sou o Gabriel Vettorazzi 👋
-
+💻My major is Analysis and System Development, and I'm currently focusing on Back-end.
+🕹️I like programming, games, and art in general.
+📖I'm fond of languages, I speak English (C1),Portuguese (Native).
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__gabrielvettorazzi__/)
 [![Linkdn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vettorazzi-78b116221/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCnPcWn7RSP-cvXTlaicyHg)
