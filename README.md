@@ -1,6 +1,7 @@
 
 ## Hey! My name is Gabriel 👋
 💻My major is Analysis and System Development, and I'm currently focusing on Back-end.
+
  🕹️I like programming, games, and art in general.
 
 
