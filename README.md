@@ -6,7 +6,7 @@
 
 
 ![Anurag's GitHub stats  ](https://github-readme-stats.vercel.app/api?username=gabrielvettorazzi&show_icons=true&theme=radical)
-[![most used](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvettorazzi&theme=blue-green)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvettorazzi&layout=compact&theme=dracula)
 
 </div><br/>
 </div>
