@@ -54,7 +54,7 @@ I have experience creating modern full-stack applications, integrating **fronten
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/gabrielvettorazzi/gabrielvettorazzi/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/gabrielvettorazzi/gabrielvettorazzi/dist/github-contribution-grid-snake.svg)
 
 ---
 
