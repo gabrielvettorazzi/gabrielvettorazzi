@@ -2,14 +2,14 @@
 
 ## 👨‍💻 Full Stack Developer
 
-Software Developer especializado em **JavaScript/TypeScript**, **Node.js**, **React**, **Java Spring Boot** e **PostgreSQL**, focado em construir soluções completas, inteligentes e escaláveis.  
-Tenho experiência criando aplicações fullstack modernas, integrando **frontend, backend, automações e experiências reais de produto**.
+Software developer specialized in **JavaScript/TypeScript**, **Node.js**, **React**, **Java Spring Boot** and **PostgreSQL**, focused on building complete, intelligent and scalable solutions.  
+I have experience creating modern full-stack applications, integrating **frontend, backend, automations and real product experiences**.
 
-
+---
 
 ## 🌐 Let’s Connect
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/gabriel-vettorazzi-/
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/gabriel-vettorazzi-/  
 - ✉️ **E-mail:** gabrielvettorazzii@gmail.com
 
 ---
@@ -52,12 +52,13 @@ Tenho experiência criando aplicações fullstack modernas, integrando **fronten
 ---
 
 ## 🐍 Contribution Snake
-<div align="center">
-  
-![snake animation](https://raw.githubusercontent.com/gabrielvettorazzi/gabrielvettorazzi/output/snake.svg)
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielvettorazzi/gabrielvettorazzi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielvettorazzi/gabrielvettorazzi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/gabrielvettorazzi/gabrielvettorazzi/output/github-contribution-grid-snake.svg" />
+</picture>
 
 
-
+---
 
