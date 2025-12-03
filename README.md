@@ -51,10 +51,10 @@ I have experience creating modern full-stack applications, integrating **fronten
 
 ---
 
+
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/gabrielvettorazzi/gabrielvettorazzi/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/gabrielvettorazzi/gabrielvettorazzi/output/snake.svg)
 
 ---
 
